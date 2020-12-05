@@ -1,0 +1,28 @@
+Diet:
+1) Men
+	1) Module- Protien
+	2) Module- Body Weight
+2) Women
+	1)Module-Protien 
+	3)Module- Body Weight
+
+
+Diet:
+1) Calculation:(Subpackage)
+	1) Module- Protien/ Carbs (Data work) 
+		- Men (Default Values)
+		- Women (Default Values)
+		- Data Cereal 
+	1) Module- To just the default heath conditions(manual)
+		- men
+		- women
+
+2) Printing: (Subpackage)
+	2) Module- Print the recommendation values
+		- print the calculated results after intake 
+		- include some animations
+	2) Module-Men and Women:
+		- Calculate the difference (Actual data and the default values)
+		- Recommender(Inheritance)
+
+

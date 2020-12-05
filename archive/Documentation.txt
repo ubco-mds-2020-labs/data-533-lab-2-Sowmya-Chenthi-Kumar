@@ -1,0 +1,19 @@
+Team Members: Sowmya Chenthi Kumar and Yatin Behl
+
+Aim: To create a package named "HEALTHY_BREAKFAST" where input will be the dietary values of an individual or a couple. The package will return three ideal cereal brands which can be used by that individual or couple. 
+Our package also has a simple handy manual specifying the daily dietary requirements of an individual. 
+If someone doesn't want to check with their corresponding values, but however want to know only the nutrients distribution among various cereals. They can use one of our sub-package to get a graphical representation of the same.
+
+PACKAGE NAME: HEALTHY_BREAKFAST
+Contains two sub-packages: MANUAL and CALCULATION
+
+MANUAL: 
+The manual package consists of two modules. First module creates a handy manual specifying the protein, fat, calories and other nutrient requirements for both men and women separately. Since package only focuses upon eating cereals for breakfast, the second module shows graphical representation of how nutrients are distributed among each cereal per serving. This information is derived from 77 cereal brands that are commonly available considered here. These representations can give a good understanding to the consumers wanting to choose a good breakfast cereal.
+
+CALCULATION:
+This module takes in the nutritional information of an individual or a couple and give an idea about the nutrients they are lacking. (We have decided to do this for 2 main nutrient components - proteins and calories). The second module take this information and top three brands which is best suited for the individual/couple to improve their diet. 
+
+
+
+
+ 
